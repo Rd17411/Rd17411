@@ -1,0 +1,997 @@
+05/09/23 02:43:09 PM - CommonUtil - INFO: Match with item Retail with Retail
+05/09/23 02:43:14 PM - CaseFiles - INFO: input is False
+05/09/23 02:43:14 PM - CaseFiles - INFO: Input is None
+05/09/23 02:43:18 PM - CommonUtil - INFO: Match with item Paternity Trio with Paternity Trio
+05/09/23 02:43:18 PM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/09/23 02:43:22 PM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/09/23 02:43:22 PM - CommonUtil - INFO: Match with item French with French
+05/09/23 02:43:23 PM - CommonUtil - INFO: Match with item Spanish with Spanish
+05/09/23 02:43:29 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/09/23 02:43:29 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:43:29 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:43:29 PM - CommonUtil - INFO: Match the month SEP with 9
+05/09/23 02:43:30 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 02:43:36 PM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/09/23 02:43:37 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:43:37 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/09/23 02:43:37 PM - CommonUtil - INFO: Match the year 1995 with 1995
+05/09/23 02:43:37 PM - CommonUtil - INFO: Match the month AUG with 8
+05/09/23 02:43:38 PM - CommonUtil - INFO: Match the date 5 with 5
+05/09/23 02:43:40 PM - CaseFiles - INFO: input is none
+05/09/23 02:43:42 PM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/09/23 02:43:42 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:43:43 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:43:43 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 02:43:43 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 02:43:50 PM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/09/23 02:43:50 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:43:51 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:43:51 PM - CommonUtil - INFO: Match the month JUN with 6
+05/09/23 02:43:51 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 02:43:58 PM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/09/23 02:43:58 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:43:58 PM - CommonUtil - INFO: Match the year 2012 with 2012
+05/09/23 02:43:58 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 02:43:59 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 02:44:01 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/09/23 02:44:01 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:44:01 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:44:02 PM - CommonUtil - INFO: Match the month SEP with 9
+05/09/23 02:44:02 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 02:44:09 PM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/09/23 02:44:09 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:44:09 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:44:10 PM - CommonUtil - INFO: Match the month APR with 4
+05/09/23 02:44:10 PM - CommonUtil - INFO: Match the date 2 with 2
+05/09/23 02:44:17 PM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/09/23 02:44:17 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:44:17 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/09/23 02:44:17 PM - CommonUtil - INFO: Match the year 1989 with 1989
+05/09/23 02:44:17 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 02:44:18 PM - CommonUtil - INFO: Match the date 11 with 11
+05/09/23 02:46:54 PM - CommonUtil - INFO: Match with item Retail with Retail
+05/09/23 02:46:59 PM - CaseFiles - INFO: input is False
+05/09/23 02:46:59 PM - CaseFiles - INFO: Input is None
+05/09/23 02:47:03 PM - CommonUtil - INFO: Match with item Paternity Trio with Paternity Trio
+05/09/23 02:47:03 PM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/09/23 02:47:07 PM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/09/23 02:47:07 PM - CommonUtil - INFO: Match with item French with French
+05/09/23 02:47:07 PM - CommonUtil - INFO: Match with item Spanish with Spanish
+05/09/23 02:47:13 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/09/23 02:47:13 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:47:14 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:47:14 PM - CommonUtil - INFO: Match the month SEP with 9
+05/09/23 02:47:14 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 02:47:20 PM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/09/23 02:47:21 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:47:21 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/09/23 02:47:21 PM - CommonUtil - INFO: Match the year 1995 with 1995
+05/09/23 02:47:21 PM - CommonUtil - INFO: Match the month AUG with 8
+05/09/23 02:47:21 PM - CommonUtil - INFO: Match the date 5 with 5
+05/09/23 02:47:24 PM - CaseFiles - INFO: input is none
+05/09/23 02:47:26 PM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/09/23 02:47:26 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:47:26 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:47:26 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 02:47:27 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 02:47:33 PM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/09/23 02:47:34 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:47:34 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:47:34 PM - CommonUtil - INFO: Match the month JUN with 6
+05/09/23 02:47:34 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 02:47:41 PM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/09/23 02:47:41 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:47:41 PM - CommonUtil - INFO: Match the year 2012 with 2012
+05/09/23 02:47:41 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 02:47:41 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 02:47:44 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/09/23 02:47:44 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:47:44 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:47:44 PM - CommonUtil - INFO: Match the month SEP with 9
+05/09/23 02:47:45 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 02:47:51 PM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/09/23 02:47:51 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:47:52 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:47:52 PM - CommonUtil - INFO: Match the month APR with 4
+05/09/23 02:47:52 PM - CommonUtil - INFO: Match the date 2 with 2
+05/09/23 02:47:59 PM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/09/23 02:47:59 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:47:59 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/09/23 02:47:59 PM - CommonUtil - INFO: Match the year 1989 with 1989
+05/09/23 02:47:59 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 02:47:59 PM - CommonUtil - INFO: Match the date 11 with 11
+05/09/23 02:48:02 PM - CaseFiles - INFO: input is none
+05/09/23 02:48:04 PM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/09/23 02:48:04 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:48:04 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:48:05 PM - CommonUtil - INFO: Match the month DEC with 12
+05/09/23 02:48:05 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 02:49:02 PM - CaseFiles - ERROR: cannot click on element with locator newcaseAccessionBtn locator type id
+05/09/23 02:49:44 PM - CaseFiles - ERROR: element not found with locator kitbarcodeconfirmationskipBtn and locator type id
+05/09/23 02:49:44 PM - CaseFiles - ERROR: cannot click on element with locator kitbarcodeconfirmationskipBtn locator type id
+05/09/23 02:51:28 PM - CommonUtil - INFO: Match with item Retail with Retail
+05/09/23 02:51:33 PM - CaseFiles - INFO: input is False
+05/09/23 02:51:33 PM - CaseFiles - INFO: Input is None
+05/09/23 02:51:36 PM - CommonUtil - INFO: Match with item Paternity Trio with Paternity Trio
+05/09/23 02:51:37 PM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/09/23 02:51:42 PM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/09/23 02:51:42 PM - CommonUtil - INFO: Match with item French with French
+05/09/23 02:51:43 PM - CommonUtil - INFO: Match with item Spanish with Spanish
+05/09/23 02:51:49 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/09/23 02:51:49 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:51:49 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:51:50 PM - CommonUtil - INFO: Match the month SEP with 9
+05/09/23 02:51:50 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 02:51:57 PM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/09/23 02:51:57 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:51:57 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/09/23 02:51:58 PM - CommonUtil - INFO: Match the year 1995 with 1995
+05/09/23 02:51:58 PM - CommonUtil - INFO: Match the month AUG with 8
+05/09/23 02:51:58 PM - CommonUtil - INFO: Match the date 5 with 5
+05/09/23 02:52:00 PM - CaseFiles - INFO: input is none
+05/09/23 02:52:03 PM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/09/23 02:52:03 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:52:03 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:52:03 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 02:52:04 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 02:52:11 PM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/09/23 02:52:11 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:52:12 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:52:12 PM - CommonUtil - INFO: Match the month JUN with 6
+05/09/23 02:52:12 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 02:52:19 PM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/09/23 02:52:19 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:52:19 PM - CommonUtil - INFO: Match the year 2012 with 2012
+05/09/23 02:52:20 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 02:52:20 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 02:52:22 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/09/23 02:52:22 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:52:23 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:52:23 PM - CommonUtil - INFO: Match the month SEP with 9
+05/09/23 02:52:23 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 02:52:31 PM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/09/23 02:52:31 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:52:31 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:52:31 PM - CommonUtil - INFO: Match the month APR with 4
+05/09/23 02:52:31 PM - CommonUtil - INFO: Match the date 2 with 2
+05/09/23 02:52:38 PM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/09/23 02:52:38 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:52:39 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/09/23 02:52:39 PM - CommonUtil - INFO: Match the year 1989 with 1989
+05/09/23 02:52:39 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 02:52:39 PM - CommonUtil - INFO: Match the date 11 with 11
+05/09/23 02:52:42 PM - CaseFiles - INFO: input is none
+05/09/23 02:52:44 PM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/09/23 02:52:44 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 02:52:45 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 02:52:45 PM - CommonUtil - INFO: Match the month DEC with 12
+05/09/23 02:52:45 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 02:53:41 PM - CommonUtil - ERROR: QC PASS FAILED
+05/09/23 02:53:41 PM - CommonUtil - ERROR: Exception occurred
+05/09/23 02:59:36 PM - CaseFiles - ERROR: element not found with locator searchlistingnewcaseBtn and locator type id
+05/09/23 02:59:36 PM - CaseFiles - ERROR: cannot click on element with locator searchlistingnewcaseBtn locator type id
+05/09/23 02:59:36 PM - CaseFiles - ERROR: element not found with locator //app-single-select[@uid='channelId']//button[@type='button'] and locator type xpath
+05/09/23 02:59:36 PM - CommonUtil - ERROR: Unable to locate element New Case, Testcase failed
+05/09/23 02:59:36 PM - CommonUtil - ERROR: Exception occurred
+05/09/23 03:10:13 PM - CaseFiles - ERROR: element not found with locator searchlistingnewcaseBtn and locator type id
+05/09/23 03:10:13 PM - CaseFiles - ERROR: cannot click on element with locator searchlistingnewcaseBtn locator type id
+05/09/23 03:10:13 PM - CaseFiles - ERROR: element not found with locator //app-single-select[@uid='channelId']//button[@type='button'] and locator type xpath
+05/09/23 03:10:13 PM - CommonUtil - ERROR: Unable to locate element New Case, Testcase failed
+05/09/23 03:10:13 PM - CommonUtil - ERROR: Exception occurred
+05/09/23 03:13:24 PM - CommonUtil - INFO: Match with item Retail with Retail
+05/09/23 03:13:29 PM - CaseFiles - INFO: input is False
+05/09/23 03:13:29 PM - CaseFiles - INFO: Input is None
+05/09/23 03:13:32 PM - CommonUtil - INFO: Match with item Paternity Trio with Paternity Trio
+05/09/23 03:13:33 PM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/09/23 03:13:37 PM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/09/23 03:13:37 PM - CommonUtil - INFO: Match with item French with French
+05/09/23 03:13:38 PM - CommonUtil - INFO: Match with item Spanish with Spanish
+05/09/23 03:13:44 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/09/23 03:13:44 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:13:44 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 03:13:45 PM - CommonUtil - INFO: Match the month SEP with 9
+05/09/23 03:13:45 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 03:13:52 PM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/09/23 03:13:52 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:13:52 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/09/23 03:13:53 PM - CommonUtil - INFO: Match the year 1995 with 1995
+05/09/23 03:13:53 PM - CommonUtil - INFO: Match the month AUG with 8
+05/09/23 03:13:53 PM - CommonUtil - INFO: Match the date 5 with 5
+05/09/23 03:13:55 PM - CaseFiles - INFO: input is none
+05/09/23 03:13:58 PM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/09/23 03:13:58 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:13:58 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 03:13:58 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 03:13:59 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 03:14:06 PM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/09/23 03:14:06 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:14:07 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 03:14:07 PM - CommonUtil - INFO: Match the month JUN with 6
+05/09/23 03:14:07 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 03:14:14 PM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/09/23 03:14:14 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:14:15 PM - CommonUtil - INFO: Match the year 2012 with 2012
+05/09/23 03:14:15 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 03:14:15 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 03:14:17 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/09/23 03:14:17 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:14:18 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 03:14:18 PM - CommonUtil - INFO: Match the month SEP with 9
+05/09/23 03:14:18 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 03:14:26 PM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/09/23 03:14:26 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:14:26 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 03:14:26 PM - CommonUtil - INFO: Match the month APR with 4
+05/09/23 03:14:27 PM - CommonUtil - INFO: Match the date 2 with 2
+05/09/23 03:14:34 PM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/09/23 03:14:34 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:14:34 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/09/23 03:14:34 PM - CommonUtil - INFO: Match the year 1989 with 1989
+05/09/23 03:14:34 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 03:14:35 PM - CommonUtil - INFO: Match the date 11 with 11
+05/09/23 03:14:37 PM - CaseFiles - INFO: input is none
+05/09/23 03:14:39 PM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/09/23 03:14:39 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:14:40 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 03:14:40 PM - CommonUtil - INFO: Match the month DEC with 12
+05/09/23 03:14:41 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 03:15:35 PM - CommonUtil - ERROR: QC PASS FAILED
+05/09/23 03:15:35 PM - CommonUtil - ERROR: Exception occurred
+05/09/23 03:19:58 PM - CommonUtil - INFO: Match with item Retail with Retail
+05/09/23 03:20:03 PM - CaseFiles - INFO: input is False
+05/09/23 03:20:04 PM - CaseFiles - INFO: Input is None
+05/09/23 03:20:07 PM - CommonUtil - INFO: Match with item Paternity Trio with Paternity Trio
+05/09/23 03:20:07 PM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/09/23 03:20:12 PM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/09/23 03:20:12 PM - CommonUtil - INFO: Match with item French with French
+05/09/23 03:20:12 PM - CommonUtil - INFO: Match with item Spanish with Spanish
+05/09/23 03:20:18 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/09/23 03:20:18 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:20:19 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 03:20:19 PM - CommonUtil - INFO: Match the month SEP with 9
+05/09/23 03:20:19 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 03:20:26 PM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/09/23 03:20:26 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:20:27 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/09/23 03:20:27 PM - CommonUtil - INFO: Match the year 1995 with 1995
+05/09/23 03:20:27 PM - CommonUtil - INFO: Match the month AUG with 8
+05/09/23 03:20:27 PM - CommonUtil - INFO: Match the date 5 with 5
+05/09/23 03:20:30 PM - CaseFiles - INFO: input is none
+05/09/23 03:20:32 PM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/09/23 03:20:32 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:20:33 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 03:20:33 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 03:20:33 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 03:20:41 PM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/09/23 03:20:41 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:20:41 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 03:20:41 PM - CommonUtil - INFO: Match the month JUN with 6
+05/09/23 03:20:42 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 03:20:49 PM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/09/23 03:20:49 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:20:49 PM - CommonUtil - INFO: Match the year 2012 with 2012
+05/09/23 03:20:49 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 03:20:49 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 03:20:52 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/09/23 03:20:52 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:20:52 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 03:20:53 PM - CommonUtil - INFO: Match the month SEP with 9
+05/09/23 03:20:53 PM - CommonUtil - INFO: Match the date 3 with 3
+05/09/23 03:21:00 PM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/09/23 03:21:00 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:21:01 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 03:21:01 PM - CommonUtil - INFO: Match the month APR with 4
+05/09/23 03:21:01 PM - CommonUtil - INFO: Match the date 2 with 2
+05/09/23 03:21:08 PM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/09/23 03:21:08 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:21:08 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/09/23 03:21:09 PM - CommonUtil - INFO: Match the year 1989 with 1989
+05/09/23 03:21:09 PM - CommonUtil - INFO: Match the month FEB with 2
+05/09/23 03:21:09 PM - CommonUtil - INFO: Match the date 11 with 11
+05/09/23 03:21:11 PM - CaseFiles - INFO: input is none
+05/09/23 03:21:14 PM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/09/23 03:21:14 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/09/23 03:21:14 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/09/23 03:21:15 PM - CommonUtil - INFO: Match the month DEC with 12
+05/09/23 03:21:15 PM - CommonUtil - INFO: Match the date 12 with 12
+05/09/23 03:22:23 PM - CommonUtil - ERROR: QC PASS FAILED
+05/09/23 03:22:23 PM - CommonUtil - ERROR: Exception occurred
+05/09/23 03:26:25 PM - Login - ERROR: element not found with locator i0116 and locator type id
+05/09/23 03:26:25 PM - Login - ERROR: cannot send data on element with locator i0116 and locator type id
+05/09/23 03:26:25 PM - Login - ERROR: element not found with locator idSIButton9 and locator type id
+05/09/23 03:26:25 PM - Login - ERROR: cannot click on element with locator idSIButton9 locator type id
+05/09/23 03:26:25 PM - Login - ERROR: element not found with locator i0118 and locator type id
+05/09/23 03:26:25 PM - Login - ERROR: cannot send data on element with locator i0118 and locator type id
+05/09/23 03:26:25 PM - Login - ERROR: element not found with locator idSIButton9 and locator type id
+05/09/23 03:26:25 PM - Login - ERROR: cannot click on element with locator idSIButton9 locator type id
+05/09/23 03:26:25 PM - Login - ERROR: element not found with locator //div[@class='user--icon d-none d-xl-block'] and locator type xpath
+05/09/23 03:26:25 PM - CommonUtil - ERROR: Login Failed
+05/09/23 03:26:25 PM - CommonUtil - ERROR: Exception occurred
+05/10/23 10:15:51 AM - CommonUtil - INFO: Match with item Retail with Retail
+05/10/23 10:15:57 AM - CaseFiles - INFO: input is False
+05/10/23 10:15:57 AM - CaseFiles - INFO: Input is None
+05/10/23 10:16:01 AM - CommonUtil - INFO: Match with item Paternity Trio with Paternity Trio
+05/10/23 10:16:01 AM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/10/23 10:16:06 AM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/10/23 10:16:06 AM - CommonUtil - INFO: Match with item French with French
+05/10/23 10:16:07 AM - CommonUtil - INFO: Match with item Spanish with Spanish
+05/10/23 10:16:13 AM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/10/23 10:16:14 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/10/23 10:16:14 AM - CommonUtil - INFO: Match the year 2022 with 2022
+05/10/23 10:16:15 AM - CommonUtil - INFO: Match the month SEP with 9
+05/10/23 10:16:15 AM - CommonUtil - INFO: Match the date 3 with 3
+05/10/23 10:16:23 AM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/10/23 10:16:23 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/10/23 10:16:23 AM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/10/23 10:16:24 AM - CommonUtil - INFO: Match the year 1995 with 1995
+05/10/23 10:16:24 AM - CommonUtil - INFO: Match the month AUG with 8
+05/10/23 10:16:25 AM - CommonUtil - INFO: Match the date 5 with 5
+05/10/23 10:16:27 AM - CaseFiles - INFO: input is none
+05/10/23 10:16:30 AM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/10/23 10:16:30 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/10/23 10:16:31 AM - CommonUtil - INFO: Match the year 2022 with 2022
+05/10/23 10:16:31 AM - CommonUtil - INFO: Match the month FEB with 2
+05/10/23 10:16:32 AM - CommonUtil - INFO: Match the date 12 with 12
+05/10/23 10:16:40 AM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/10/23 10:16:40 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/10/23 10:16:40 AM - CommonUtil - INFO: Match the year 2022 with 2022
+05/10/23 10:16:41 AM - CommonUtil - INFO: Match the month JUN with 6
+05/10/23 10:16:42 AM - CommonUtil - INFO: Match the date 12 with 12
+05/10/23 10:16:49 AM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/10/23 10:16:49 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/10/23 10:16:50 AM - CommonUtil - INFO: Match the year 2012 with 2012
+05/10/23 10:16:50 AM - CommonUtil - INFO: Match the month FEB with 2
+05/10/23 10:16:50 AM - CommonUtil - INFO: Match the date 3 with 3
+05/10/23 10:16:53 AM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/10/23 10:16:53 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/10/23 10:16:54 AM - CommonUtil - INFO: Match the year 2022 with 2022
+05/10/23 10:16:54 AM - CommonUtil - INFO: Match the month SEP with 9
+05/10/23 10:16:55 AM - CommonUtil - INFO: Match the date 3 with 3
+05/10/23 10:17:03 AM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/10/23 10:17:03 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/10/23 10:17:03 AM - CommonUtil - INFO: Match the year 2022 with 2022
+05/10/23 10:17:04 AM - CommonUtil - INFO: Match the month APR with 4
+05/10/23 10:17:04 AM - CommonUtil - INFO: Match the date 2 with 2
+05/10/23 10:17:12 AM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/10/23 10:17:12 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/10/23 10:17:12 AM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/10/23 10:17:13 AM - CommonUtil - INFO: Match the year 1989 with 1989
+05/10/23 10:17:13 AM - CommonUtil - INFO: Match the month FEB with 2
+05/10/23 10:17:13 AM - CommonUtil - INFO: Match the date 11 with 11
+05/10/23 10:17:16 AM - CaseFiles - INFO: input is none
+05/10/23 10:17:18 AM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/10/23 10:17:19 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/10/23 10:17:19 AM - CommonUtil - INFO: Match the year 2022 with 2022
+05/10/23 10:17:20 AM - CommonUtil - INFO: Match the month DEC with 12
+05/10/23 10:17:21 AM - CommonUtil - INFO: Match the date 12 with 12
+05/10/23 10:17:54 AM - CaseFiles - ERROR: cannot send data on element with locator //textarea[@placeholder='Enter comments'] and locator type xpath
+05/10/23 10:17:54 AM - CaseFiles - ERROR: element not found with locator documentuploadBtn and locator type id
+05/10/23 01:02:46 PM - CaseFiles - ERROR: element not found with locator searchlistingnewcaseBtn and locator type id
+05/10/23 01:02:46 PM - CaseFiles - ERROR: cannot click on element with locator searchlistingnewcaseBtn locator type id
+05/10/23 01:02:46 PM - CaseFiles - ERROR: element not found with locator //app-single-select[@uid='channelId']//button[@type='button'] and locator type xpath
+05/10/23 01:02:46 PM - CommonUtil - ERROR: Unable to locate element New Case, Testcase failed
+05/10/23 01:02:46 PM - CommonUtil - ERROR: Exception occurred
+05/12/23 12:59:15 PM - CommonUtil - INFO: Match with item Government with Government
+05/12/23 12:59:21 PM - CommonUtil - INFO: Match with item California with California
+05/12/23 12:59:25 PM - CommonUtil - INFO: Match with item Banning CPS Branch with Banning CPS Branch
+05/12/23 12:59:26 PM - CaseFiles - INFO: Input is None
+05/12/23 12:59:29 PM - CaseFiles - INFO: Input is None
+05/12/23 12:59:29 PM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/12/23 12:59:33 PM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/12/23 12:59:40 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/12/23 12:59:40 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 12:59:40 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 12:59:41 PM - CommonUtil - INFO: Match the month SEP with 9
+05/12/23 12:59:41 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 12:59:48 PM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/12/23 12:59:48 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 12:59:48 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/12/23 12:59:49 PM - CommonUtil - INFO: Match the year 1995 with 1995
+05/12/23 12:59:49 PM - CommonUtil - INFO: Match the month AUG with 8
+05/12/23 12:59:49 PM - CommonUtil - INFO: Match the date 5 with 5
+05/12/23 12:59:53 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 12:59:55 PM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/12/23 12:59:55 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 12:59:56 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 12:59:56 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 12:59:56 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 01:00:04 PM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/12/23 01:00:04 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 01:00:04 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 01:00:05 PM - CommonUtil - INFO: Match the month JUN with 6
+05/12/23 01:00:05 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 01:00:12 PM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/12/23 01:00:12 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 01:00:12 PM - CommonUtil - INFO: Match the year 2012 with 2012
+05/12/23 01:00:13 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 01:00:13 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 01:00:16 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/12/23 01:00:16 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 01:00:17 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 01:00:17 PM - CommonUtil - INFO: Match the month SEP with 9
+05/12/23 01:00:17 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 01:00:25 PM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/12/23 01:00:25 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 01:00:25 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 01:00:26 PM - CommonUtil - INFO: Match the month APR with 4
+05/12/23 01:00:26 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 01:00:33 PM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/12/23 01:00:33 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 01:00:33 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/12/23 01:00:33 PM - CommonUtil - INFO: Match the year 1989 with 1989
+05/12/23 01:00:34 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 01:00:34 PM - CommonUtil - INFO: Match the date 11 with 11
+05/12/23 01:00:37 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 01:00:40 PM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/12/23 01:00:40 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 01:00:40 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 01:00:40 PM - CommonUtil - INFO: Match the month DEC with 12
+05/12/23 01:00:41 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 01:02:22 PM - CaseFiles - ERROR: element not found with locator //app-toaster//div[2]//h2 and locator type xpath
+05/12/23 02:02:56 PM - CaseFiles - ERROR: element not found with locator //button[@data-bs-dismiss='toast'] and locator type xpath
+05/12/23 02:02:56 PM - CaseFiles - ERROR: cannot click on element with locator //button[@data-bs-dismiss='toast'] locator type xpath
+05/12/23 02:02:56 PM - CommonUtil - ERROR: QC PASS FAILED
+05/12/23 02:02:56 PM - CommonUtil - ERROR: Exception occurred
+05/12/23 02:05:18 PM - CommonUtil - INFO: Match with item Government with Government
+05/12/23 02:05:23 PM - CommonUtil - INFO: Match with item California with California
+05/12/23 02:05:27 PM - CommonUtil - INFO: Match with item Banning CPS Branch with Banning CPS Branch
+05/12/23 02:05:28 PM - CaseFiles - INFO: Input is None
+05/12/23 02:05:31 PM - CaseFiles - INFO: Input is None
+05/12/23 02:05:31 PM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/12/23 02:05:36 PM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/12/23 02:05:41 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/12/23 02:05:41 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:05:41 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:05:42 PM - CommonUtil - INFO: Match the month SEP with 9
+05/12/23 02:05:42 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:05:49 PM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/12/23 02:05:49 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:05:50 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/12/23 02:05:50 PM - CommonUtil - INFO: Match the year 1995 with 1995
+05/12/23 02:05:50 PM - CommonUtil - INFO: Match the month AUG with 8
+05/12/23 02:05:51 PM - CommonUtil - INFO: Match the date 5 with 5
+05/12/23 02:05:54 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:05:56 PM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/12/23 02:05:56 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:05:57 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:05:57 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:05:57 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:06:05 PM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/12/23 02:06:05 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:06:06 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:06:06 PM - CommonUtil - INFO: Match the month JUN with 6
+05/12/23 02:06:06 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:06:13 PM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/12/23 02:06:13 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:06:14 PM - CommonUtil - INFO: Match the year 2012 with 2012
+05/12/23 02:06:14 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:06:14 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:06:17 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/12/23 02:06:17 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:06:18 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:06:18 PM - CommonUtil - INFO: Match the month SEP with 9
+05/12/23 02:06:18 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:06:26 PM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/12/23 02:06:26 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:06:26 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:06:27 PM - CommonUtil - INFO: Match the month APR with 4
+05/12/23 02:06:27 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:06:34 PM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/12/23 02:06:34 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:06:34 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/12/23 02:06:35 PM - CommonUtil - INFO: Match the year 1989 with 1989
+05/12/23 02:06:35 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:06:35 PM - CommonUtil - INFO: Match the date 11 with 11
+05/12/23 02:06:38 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:06:41 PM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/12/23 02:06:41 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:06:41 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:06:42 PM - CommonUtil - INFO: Match the month DEC with 12
+05/12/23 02:06:42 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:08:22 PM - AuditRequests - ERROR: element not found with locator auditrequestresetBtn and locator type id
+05/12/23 02:08:22 PM - AuditRequests - ERROR: cannot click on element with locator auditrequestresetBtn locator type id
+05/12/23 02:09:05 PM - AuditRequests - ERROR: element not found with locator value and locator type id
+05/12/23 02:09:05 PM - AuditRequests - ERROR: cannot send data on element with locator value and locator type id
+05/12/23 02:09:47 PM - AuditRequests - ERROR: cannot click on element with locator auditrequestapplyBtn locator type id
+05/12/23 02:10:04 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:10:04 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:10:05 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:10:05 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:10:05 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:10:08 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:10:11 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:10:11 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:10:11 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:10:11 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:10:12 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:10:20 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:10:20 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:10:21 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:10:21 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:10:21 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:10:24 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:10:24 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:10:25 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:10:25 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:10:25 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:10:34 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:10:34 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:10:34 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:10:35 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:10:35 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:10:38 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:10:40 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:10:40 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:10:41 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:10:41 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:10:41 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:10:51 PM - CaseFiles - INFO: Logout Successfully
+05/12/23 02:11:05 PM - Login - ERROR: element not found with locator //div[@class='user--icon d-none d-xl-block'] and locator type xpath
+05/12/23 02:11:05 PM - CommonUtil - ERROR: Login Failed
+05/12/23 02:11:05 PM - CommonUtil - ERROR: Exception occurred
+05/12/23 02:20:16 PM - CommonUtil - INFO: Match with item Government with Government
+05/12/23 02:20:22 PM - CommonUtil - INFO: Match with item California with California
+05/12/23 02:20:25 PM - CommonUtil - INFO: Match with item Banning CPS Branch with Banning CPS Branch
+05/12/23 02:20:26 PM - CaseFiles - INFO: Input is None
+05/12/23 02:20:30 PM - CaseFiles - INFO: Input is None
+05/12/23 02:20:30 PM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/12/23 02:20:34 PM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/12/23 02:20:41 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/12/23 02:20:41 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:20:41 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:20:41 PM - CommonUtil - INFO: Match the month SEP with 9
+05/12/23 02:20:42 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:20:49 PM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/12/23 02:20:49 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:20:49 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/12/23 02:20:49 PM - CommonUtil - INFO: Match the year 1995 with 1995
+05/12/23 02:20:50 PM - CommonUtil - INFO: Match the month AUG with 8
+05/12/23 02:20:50 PM - CommonUtil - INFO: Match the date 5 with 5
+05/12/23 02:20:53 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:20:56 PM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/12/23 02:20:56 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:20:56 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:20:56 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:20:57 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:21:04 PM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/12/23 02:21:04 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:21:05 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:21:05 PM - CommonUtil - INFO: Match the month JUN with 6
+05/12/23 02:21:05 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:21:13 PM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/12/23 02:21:13 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:21:13 PM - CommonUtil - INFO: Match the year 2012 with 2012
+05/12/23 02:21:13 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:21:13 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:21:17 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/12/23 02:21:17 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:21:17 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:21:18 PM - CommonUtil - INFO: Match the month SEP with 9
+05/12/23 02:21:18 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:21:25 PM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/12/23 02:21:25 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:21:26 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:21:26 PM - CommonUtil - INFO: Match the month APR with 4
+05/12/23 02:21:26 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:21:33 PM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/12/23 02:21:33 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:21:34 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/12/23 02:21:34 PM - CommonUtil - INFO: Match the year 1989 with 1989
+05/12/23 02:21:34 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:21:34 PM - CommonUtil - INFO: Match the date 11 with 11
+05/12/23 02:21:38 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:21:40 PM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/12/23 02:21:40 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:21:41 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:21:41 PM - CommonUtil - INFO: Match the month DEC with 12
+05/12/23 02:21:41 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:23:13 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:23:13 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:23:14 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:23:14 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:23:14 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:23:17 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:23:20 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:23:20 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:23:20 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:23:20 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:23:21 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:23:29 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:23:29 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:23:30 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:23:30 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:23:30 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:23:33 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:23:33 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:23:34 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:23:34 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:23:34 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:23:43 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:23:43 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:23:43 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:23:43 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:23:44 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:23:47 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:23:49 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:23:49 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:23:50 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:23:50 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:23:50 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:23:56 PM - CaseFiles - INFO: Logout Successfully
+05/12/23 02:24:05 PM - Login - ERROR: element not found with locator //div[@class='user--icon d-none d-xl-block'] and locator type xpath
+05/12/23 02:24:05 PM - CommonUtil - ERROR: Login Failed
+05/12/23 02:24:05 PM - CommonUtil - ERROR: Exception occurred
+05/12/23 02:24:49 PM - CommonUtil - INFO: Match with item Government with Government
+05/12/23 02:24:54 PM - CommonUtil - INFO: Match with item California with California
+05/12/23 02:24:58 PM - CommonUtil - INFO: Match with item Banning CPS Branch with Banning CPS Branch
+05/12/23 02:24:59 PM - CaseFiles - INFO: Input is None
+05/12/23 02:25:02 PM - CaseFiles - INFO: Input is None
+05/12/23 02:25:03 PM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/12/23 02:25:07 PM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/12/23 02:25:13 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/12/23 02:25:13 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:25:14 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:25:14 PM - CommonUtil - INFO: Match the month SEP with 9
+05/12/23 02:25:14 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:25:21 PM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/12/23 02:25:21 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:25:22 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/12/23 02:25:22 PM - CommonUtil - INFO: Match the year 1995 with 1995
+05/12/23 02:25:22 PM - CommonUtil - INFO: Match the month AUG with 8
+05/12/23 02:25:23 PM - CommonUtil - INFO: Match the date 5 with 5
+05/12/23 02:25:26 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:25:29 PM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/12/23 02:25:29 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:25:29 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:25:30 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:25:30 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:25:38 PM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/12/23 02:25:38 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:25:38 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:25:38 PM - CommonUtil - INFO: Match the month JUN with 6
+05/12/23 02:25:39 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:25:46 PM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/12/23 02:25:46 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:25:46 PM - CommonUtil - INFO: Match the year 2012 with 2012
+05/12/23 02:25:47 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:25:47 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:25:50 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/12/23 02:25:50 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:25:51 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:25:51 PM - CommonUtil - INFO: Match the month SEP with 9
+05/12/23 02:25:51 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:26:00 PM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/12/23 02:26:00 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:26:00 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:26:01 PM - CommonUtil - INFO: Match the month APR with 4
+05/12/23 02:26:01 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:26:08 PM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/12/23 02:26:08 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:26:09 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/12/23 02:26:09 PM - CommonUtil - INFO: Match the year 1989 with 1989
+05/12/23 02:26:09 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:26:10 PM - CommonUtil - INFO: Match the date 11 with 11
+05/12/23 02:26:13 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:26:15 PM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/12/23 02:26:16 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:26:16 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:26:17 PM - CommonUtil - INFO: Match the month DEC with 12
+05/12/23 02:26:17 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:28:00 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:28:00 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:28:00 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:28:01 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:28:01 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:28:04 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:28:06 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:28:07 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:28:07 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:28:07 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:28:07 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:28:16 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:28:16 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:28:16 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:28:16 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:28:17 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:28:20 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:28:20 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:28:20 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:28:21 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:28:21 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:28:30 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:28:30 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:28:30 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:28:30 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:28:31 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:28:34 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:28:36 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:28:36 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:28:37 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:28:37 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:28:37 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:28:48 PM - CaseFiles - INFO: Logout Successfully
+05/12/23 02:29:04 PM - CommonUtil - INFO: Match with item Retail with Retail
+05/12/23 02:29:09 PM - CaseFiles - INFO: input is False
+05/12/23 02:29:10 PM - CaseFiles - INFO: Input is None
+05/12/23 02:29:13 PM - CommonUtil - INFO: Match with item Paternity Trio with Paternity Trio
+05/12/23 02:29:14 PM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/12/23 02:29:18 PM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/12/23 02:29:18 PM - CommonUtil - INFO: Match with item French with French
+05/12/23 02:29:19 PM - CommonUtil - INFO: Match with item Spanish with Spanish
+05/12/23 02:29:26 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/12/23 02:29:26 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:29:26 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:29:27 PM - CommonUtil - INFO: Match the month SEP with 9
+05/12/23 02:29:27 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:29:35 PM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/12/23 02:29:35 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:29:35 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/12/23 02:29:36 PM - CommonUtil - INFO: Match the year 1995 with 1995
+05/12/23 02:29:36 PM - CommonUtil - INFO: Match the month AUG with 8
+05/12/23 02:29:36 PM - CommonUtil - INFO: Match the date 5 with 5
+05/12/23 02:29:39 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:29:42 PM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/12/23 02:29:42 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:29:42 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:29:43 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:29:43 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:29:51 PM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/12/23 02:29:51 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:29:52 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:29:52 PM - CommonUtil - INFO: Match the month JUN with 6
+05/12/23 02:29:52 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:30:00 PM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/12/23 02:30:00 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:30:00 PM - CommonUtil - INFO: Match the year 2012 with 2012
+05/12/23 02:30:01 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:30:01 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:30:04 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/12/23 02:30:04 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:30:04 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:30:05 PM - CommonUtil - INFO: Match the month SEP with 9
+05/12/23 02:30:05 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:30:13 PM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/12/23 02:30:13 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:30:14 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:30:14 PM - CommonUtil - INFO: Match the month APR with 4
+05/12/23 02:30:14 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:30:22 PM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/12/23 02:30:22 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:30:23 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/12/23 02:30:23 PM - CommonUtil - INFO: Match the year 1989 with 1989
+05/12/23 02:30:23 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:30:24 PM - CommonUtil - INFO: Match the date 11 with 11
+05/12/23 02:30:27 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:30:29 PM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/12/23 02:30:30 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:30:30 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:30:31 PM - CommonUtil - INFO: Match the month DEC with 12
+05/12/23 02:30:31 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:31:18 PM - CommonUtil - INFO: Match with item Government with Government
+05/12/23 02:31:24 PM - CommonUtil - INFO: Match with item California with California
+05/12/23 02:31:28 PM - CommonUtil - INFO: Match with item Banning CPS Branch with Banning CPS Branch
+05/12/23 02:31:29 PM - CaseFiles - INFO: Input is None
+05/12/23 02:31:32 PM - CaseFiles - INFO: Input is None
+05/12/23 02:31:32 PM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/12/23 02:31:36 PM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/12/23 02:31:43 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/12/23 02:31:43 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:31:43 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:31:43 PM - CommonUtil - INFO: Match the month SEP with 9
+05/12/23 02:31:44 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:31:51 PM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/12/23 02:31:51 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:31:51 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/12/23 02:31:52 PM - CommonUtil - INFO: Match the year 1995 with 1995
+05/12/23 02:31:52 PM - CommonUtil - INFO: Match the month AUG with 8
+05/12/23 02:31:52 PM - CommonUtil - INFO: Match the date 5 with 5
+05/12/23 02:31:55 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:31:58 PM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/12/23 02:31:58 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:31:58 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:31:59 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:31:59 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:32:06 PM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/12/23 02:32:07 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:32:07 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:32:07 PM - CommonUtil - INFO: Match the month JUN with 6
+05/12/23 02:32:08 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:32:15 PM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/12/23 02:32:15 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:32:15 PM - CommonUtil - INFO: Match the year 2012 with 2012
+05/12/23 02:32:15 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:32:15 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:32:19 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/12/23 02:32:19 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:32:19 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:32:19 PM - CommonUtil - INFO: Match the month SEP with 9
+05/12/23 02:32:20 PM - CommonUtil - INFO: Match the date 3 with 3
+05/12/23 02:32:27 PM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/12/23 02:32:27 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:32:28 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:32:28 PM - CommonUtil - INFO: Match the month APR with 4
+05/12/23 02:32:28 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:32:35 PM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/12/23 02:32:36 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:32:36 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/12/23 02:32:36 PM - CommonUtil - INFO: Match the year 1989 with 1989
+05/12/23 02:32:36 PM - CommonUtil - INFO: Match the month FEB with 2
+05/12/23 02:32:37 PM - CommonUtil - INFO: Match the date 11 with 11
+05/12/23 02:32:40 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:32:42 PM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/12/23 02:32:42 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:32:43 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:32:43 PM - CommonUtil - INFO: Match the month DEC with 12
+05/12/23 02:32:43 PM - CommonUtil - INFO: Match the date 12 with 12
+05/12/23 02:34:02 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:34:02 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:34:02 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:34:02 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:34:03 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:34:06 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:34:08 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:34:08 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:34:09 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:34:09 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:34:09 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:34:18 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:34:18 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:34:18 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:34:19 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:34:19 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:34:22 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:34:22 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:34:23 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:34:23 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:34:23 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:34:32 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:34:32 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:34:32 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:34:32 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:34:33 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:34:35 PM - CommonUtil - INFO: Match with item Asian with Asian
+05/12/23 02:34:38 PM - CommonUtil - INFO: date split into day 2 , month 3 and year 2022
+05/12/23 02:34:38 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/12/23 02:34:39 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/12/23 02:34:39 PM - CommonUtil - INFO: Match the month MAR with 3
+05/12/23 02:34:39 PM - CommonUtil - INFO: Match the date 2 with 2
+05/12/23 02:34:46 PM - CaseFiles - INFO: Logout Successfully
+05/12/23 02:34:53 PM - Login - ERROR: element not found with locator i0118 and locator type id
+05/12/23 02:34:53 PM - Login - ERROR: cannot send data on element with locator i0118 and locator type id
+05/12/23 02:34:54 PM - Login - ERROR: element not found with locator idSIButton9 and locator type id
+05/12/23 02:34:54 PM - Login - ERROR: cannot click on element with locator idSIButton9 locator type id
+05/12/23 02:34:54 PM - Login - ERROR: element not found with locator //div[@class='user--icon d-none d-xl-block'] and locator type xpath
+05/12/23 02:34:54 PM - CommonUtil - ERROR: Login Failed
+05/12/23 02:34:54 PM - CommonUtil - ERROR: Exception occurred
+05/15/23 11:23:30 AM - CommonUtil - INFO: Match with item Retail with Retail
+05/15/23 11:23:36 AM - CaseFiles - INFO: input is False
+05/15/23 11:23:36 AM - CaseFiles - INFO: Input is None
+05/15/23 11:23:40 AM - CommonUtil - INFO: Match with item Paternity Trio with Paternity Trio
+05/15/23 11:23:40 AM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/15/23 11:23:45 AM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/15/23 11:23:45 AM - CommonUtil - INFO: Match with item French with French
+05/15/23 11:23:46 AM - CommonUtil - INFO: Match with item Spanish with Spanish
+05/15/23 11:23:53 AM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/15/23 11:23:53 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 11:23:54 AM - CommonUtil - INFO: Match the year 2022 with 2022
+05/15/23 11:23:54 AM - CommonUtil - INFO: Match the month SEP with 9
+05/15/23 11:23:54 AM - CommonUtil - INFO: Match the date 3 with 3
+05/15/23 11:24:02 AM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/15/23 11:24:02 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 11:24:03 AM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/15/23 11:24:03 AM - CommonUtil - INFO: Match the year 1995 with 1995
+05/15/23 11:24:04 AM - CommonUtil - INFO: Match the month AUG with 8
+05/15/23 11:24:04 AM - CommonUtil - INFO: Match the date 5 with 5
+05/15/23 11:24:06 AM - CaseFiles - INFO: input is none
+05/15/23 11:24:09 AM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/15/23 11:24:09 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 11:24:09 AM - CommonUtil - INFO: Match the year 2022 with 2022
+05/15/23 11:24:10 AM - CommonUtil - INFO: Match the month FEB with 2
+05/15/23 11:24:10 AM - CommonUtil - INFO: Match the date 12 with 12
+05/15/23 11:24:18 AM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/15/23 11:24:18 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 11:24:19 AM - CommonUtil - INFO: Match the year 2022 with 2022
+05/15/23 11:24:19 AM - CommonUtil - INFO: Match the month JUN with 6
+05/15/23 11:24:20 AM - CommonUtil - INFO: Match the date 12 with 12
+05/15/23 11:24:28 AM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/15/23 11:24:28 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 11:24:28 AM - CommonUtil - INFO: Match the year 2012 with 2012
+05/15/23 11:24:28 AM - CommonUtil - INFO: Match the month FEB with 2
+05/15/23 11:24:29 AM - CommonUtil - INFO: Match the date 3 with 3
+05/15/23 11:24:32 AM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/15/23 11:24:32 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 11:24:33 AM - CommonUtil - INFO: Match the year 2022 with 2022
+05/15/23 11:24:33 AM - CommonUtil - INFO: Match the month SEP with 9
+05/15/23 11:24:33 AM - CommonUtil - INFO: Match the date 3 with 3
+05/15/23 11:24:42 AM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/15/23 11:24:42 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 11:24:43 AM - CommonUtil - INFO: Match the year 2022 with 2022
+05/15/23 11:24:43 AM - CommonUtil - INFO: Match the month APR with 4
+05/15/23 11:24:44 AM - CommonUtil - INFO: Match the date 2 with 2
+05/15/23 11:24:51 AM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/15/23 11:24:52 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 11:24:52 AM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/15/23 11:24:52 AM - CommonUtil - INFO: Match the year 1989 with 1989
+05/15/23 11:24:53 AM - CommonUtil - INFO: Match the month FEB with 2
+05/15/23 11:24:53 AM - CommonUtil - INFO: Match the date 11 with 11
+05/15/23 11:24:56 AM - CaseFiles - INFO: input is none
+05/15/23 11:24:59 AM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/15/23 11:24:59 AM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 11:25:00 AM - CommonUtil - INFO: Match the year 2022 with 2022
+05/15/23 11:25:00 AM - CommonUtil - INFO: Match the month DEC with 12
+05/15/23 11:25:00 AM - CommonUtil - INFO: Match the date 12 with 12
+05/15/23 11:26:21 AM - CaseFiles - ERROR: element not found with locator success and locator type id
+05/15/23 11:26:21 AM - CaseFiles - ERROR: cannot click on element with locator success locator type id
+05/15/23 11:27:04 AM - CaseFiles - ERROR: element not found with locator success and locator type id
+05/15/23 11:27:04 AM - CaseFiles - ERROR: cannot click on element with locator success locator type id
+05/15/23 11:27:47 AM - CaseFiles - ERROR: element not found with locator //app-toaster//div[2]//h2 and locator type xpath
+05/15/23 11:28:30 AM - CaseFiles - ERROR: element not found with locator //button[@data-bs-dismiss='toast'] and locator type xpath
+05/15/23 11:28:30 AM - CaseFiles - ERROR: cannot click on element with locator //button[@data-bs-dismiss='toast'] locator type xpath
+05/15/23 11:28:30 AM - CommonUtil - ERROR: Case not created
+05/15/23 11:28:30 AM - CommonUtil - ERROR: Exception occurred
+05/15/23 12:12:02 PM - CommonUtil - INFO: Match with item Retail with Retail
+05/15/23 12:12:08 PM - CaseFiles - INFO: input is False
+05/15/23 12:12:08 PM - CaseFiles - INFO: Input is None
+05/15/23 12:12:12 PM - CommonUtil - INFO: Match with item Paternity Trio with Paternity Trio
+05/15/23 12:12:12 PM - CommonUtil - INFO: Match with item Loci Verification with Loci Verification
+05/15/23 12:12:16 PM - CommonUtil - INFO: Match with item 2 W Day(s) with 2 W Day(s)
+05/15/23 12:12:17 PM - CommonUtil - INFO: Match with item French with French
+05/15/23 12:12:17 PM - CommonUtil - INFO: Match with item Spanish with Spanish
+05/15/23 12:12:24 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/15/23 12:12:24 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 12:12:24 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/15/23 12:12:24 PM - CommonUtil - INFO: Match the month SEP with 9
+05/15/23 12:12:25 PM - CommonUtil - INFO: Match the date 3 with 3
+05/15/23 12:12:32 PM - CommonUtil - INFO: date split into day 5 , month 8 and year 1995
+05/15/23 12:12:32 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 12:12:32 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/15/23 12:12:33 PM - CommonUtil - INFO: Match the year 1995 with 1995
+05/15/23 12:12:33 PM - CommonUtil - INFO: Match the month AUG with 8
+05/15/23 12:12:33 PM - CommonUtil - INFO: Match the date 5 with 5
+05/15/23 12:12:36 PM - CaseFiles - INFO: input is none
+05/15/23 12:12:38 PM - CommonUtil - INFO: date split into day 12 , month 2 and year 2022
+05/15/23 12:12:38 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 12:12:39 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/15/23 12:12:39 PM - CommonUtil - INFO: Match the month FEB with 2
+05/15/23 12:12:39 PM - CommonUtil - INFO: Match the date 12 with 12
+05/15/23 12:12:47 PM - CommonUtil - INFO: date split into day 12 , month 6 and year 2022
+05/15/23 12:12:47 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 12:12:48 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/15/23 12:12:48 PM - CommonUtil - INFO: Match the month JUN with 6
+05/15/23 12:12:48 PM - CommonUtil - INFO: Match the date 12 with 12
+05/15/23 12:12:56 PM - CommonUtil - INFO: date split into day 3 , month 2 and year 2012
+05/15/23 12:12:56 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 12:12:56 PM - CommonUtil - INFO: Match the year 2012 with 2012
+05/15/23 12:12:56 PM - CommonUtil - INFO: Match the month FEB with 2
+05/15/23 12:12:56 PM - CommonUtil - INFO: Match the date 3 with 3
+05/15/23 12:12:59 PM - CommonUtil - INFO: date split into day 3 , month 9 and year 2022
+05/15/23 12:12:59 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 12:12:59 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/15/23 12:13:00 PM - CommonUtil - INFO: Match the month SEP with 9
+05/15/23 12:13:00 PM - CommonUtil - INFO: Match the date 3 with 3
+05/15/23 12:13:08 PM - CommonUtil - INFO: date split into day 2 , month 4 and year 2022
+05/15/23 12:13:08 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 12:13:08 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/15/23 12:13:08 PM - CommonUtil - INFO: Match the month APR with 4
+05/15/23 12:13:09 PM - CommonUtil - INFO: Match the date 2 with 2
+05/15/23 12:13:16 PM - CommonUtil - INFO: date split into day 11 , month 2 and year 1989
+05/15/23 12:13:16 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 12:13:16 PM - CommonUtil - INFO: String split into lower 1976 and higher 1999
+05/15/23 12:13:16 PM - CommonUtil - INFO: Match the year 1989 with 1989
+05/15/23 12:13:17 PM - CommonUtil - INFO: Match the month FEB with 2
+05/15/23 12:13:17 PM - CommonUtil - INFO: Match the date 11 with 11
+05/15/23 12:13:19 PM - CaseFiles - INFO: input is none
+05/15/23 12:13:22 PM - CommonUtil - INFO: date split into day 12 , month 12 and year 2022
+05/15/23 12:13:22 PM - CommonUtil - INFO: String split into lower 2000 and higher 2023
+05/15/23 12:13:23 PM - CommonUtil - INFO: Match the year 2022 with 2022
+05/15/23 12:13:23 PM - CommonUtil - INFO: Match the month DEC with 12
+05/15/23 12:13:23 PM - CommonUtil - INFO: Match the date 12 with 12
+05/15/23 12:14:41 PM - CaseFiles - ERROR: element not found with locator success and locator type id
+05/15/23 12:14:41 PM - CaseFiles - ERROR: cannot click on element with locator success locator type id
+05/15/23 12:15:24 PM - CaseFiles - ERROR: element not found with locator success and locator type id
+05/15/23 12:15:24 PM - CaseFiles - ERROR: cannot click on element with locator success locator type id
+05/15/23 12:16:07 PM - CaseFiles - ERROR: element not found with locator //app-toaster//div[2]//h2 and locator type xpath
+05/15/23 12:16:50 PM - CaseFiles - ERROR: element not found with locator //button[@data-bs-dismiss='toast'] and locator type xpath
+05/15/23 12:16:50 PM - CaseFiles - ERROR: cannot click on element with locator //button[@data-bs-dismiss='toast'] locator type xpath
+05/15/23 12:16:50 PM - CommonUtil - ERROR: Case not created
+05/15/23 12:16:50 PM - CommonUtil - ERROR: Exception occurred

@@ -1,0 +1,37 @@
+pipeline {
+
+    agent any
+    
+    stages {
+
+        stage('Config Update') {
+            steps {
+    configFileProvider([configFile(fileId: '0b8eed98-8ecf-4bef-96d1-f704a98f6e3c', targetLocation: 'configurations/config_changes.py')]) {
+    // some block
+                }
+     sh 'cp -r jenkins/dev/Dockerfile .'
+        }
+       }
+
+      stage('Build') {
+
+                 steps {
+                     sh 'docker build -t dev-regression:1 .'              
+             }
+             }
+
+      stage('RunTest') {
+                    steps {
+                      sh 'docker run -i -v /volume/dev-regression:/ddc-regression/reports/zip_report --name dev-regression dev-regression:1'
+                      sh 'docker stop dev-regression'
+                      sh 'docker rm dev-regression'
+                      sh 'mv /volume/dev-regression/report.zip reports/zip_report/'
+                      }
+                     }
+    }
+     post {
+        always {
+           emailext attachLog: true, attachmentsPattern: 'reports/zip_report/report.zip', body: '$DEFAULT_CONTENT', subject: '$DEFAULT_SUBJECT', to: 'deepak.jose@feathersoft.com,aneesh.ka@feathersoft.com,muhammed.anees@feathersoft.com'
+        }
+    }
+    }
